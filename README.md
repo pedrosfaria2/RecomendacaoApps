@@ -8,7 +8,7 @@ Neste projeto, nós usamos dados parciais das lojas de aplicativos, que foram ob
 
 Neste projeto, nós exploramos possíveis respostas para as seguintes questões:
 
-Quais são os gêneros que têm mais aplicativos nas duas lojas?
+- Quais são os gêneros que têm mais aplicativos nas duas lojas?
 - Nesses gêneros com mais oferta de aplicativos, quais costumam ser as preferências dos usuários?
 - Que critérios podemos usar com os dados disponíveis para entendermos quais categorias os usuários gostam mais?
 - Aplicativos de sucesso e de grandes empresas podem enviesar esses dados? Como eles afetam nossa análise?
